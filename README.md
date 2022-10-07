@@ -2,7 +2,7 @@
 
 ### Biografria
 
-🔭 Cursando bacharel em Sistemas de Informação pela Faculdade Descomplica, fazendo um curso sobre Apex e Lightning Web Component (LWC), além disso na busca constante de aprimorar e adquirir mais conhecimento sobre a plataforma, desse modo estudo pela Trailhead e por bootcamps.
+🔭 Cursando bacharel em Sistemas de Informação pela Faculdade Descomplica, fazendo um curso sobre Apex e Lightning Web Component (LWC), além disso na busca constante de aprimorar e adquirir mais conhecimento sobre a plataforma e sobre programação, desse modo estudo pela Trailhead, cursos e por bootcamps.
 
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white)
 
